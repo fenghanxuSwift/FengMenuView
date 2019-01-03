@@ -1,0 +1,6 @@
+framework module FengMenuView {
+  umbrella header "FengMenuView-umbrella.h"
+
+  export *
+  module * { export * }
+}

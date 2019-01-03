@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FengMenuView_Example' do
+  pod 'FengMenuView', :path => '../'
+
+  target 'FengMenuView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

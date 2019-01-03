@@ -1,0 +1,6 @@
+framework module Pods_FengMenuView_Example {
+  umbrella header "Pods-FengMenuView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

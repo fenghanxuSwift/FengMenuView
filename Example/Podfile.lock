@@ -1,0 +1,23 @@
+PODS:
+  - FengMenuView (0.1.0):
+    - SnapKit
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - FengMenuView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  FengMenuView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FengMenuView: b50b6473bd2a8dfbd82c89a98fc1fdc9a45cc74e
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: 8f901771b934b31bbfb7b79829b6317d022263da
+
+COCOAPODS: 1.5.3
